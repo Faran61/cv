@@ -1,0 +1,182 @@
+body{
+	margin: 0;
+	text-align: center;
+	font-family: 'Merriweather', serif;
+	background-color: #E9F9F8;
+}
+h1{
+	margin: 50px auto 0 auto;
+	font-family: 'Libre Bodoni', serif;
+	font-size: 562.5%;
+	color: #66BFBF;
+	line-height: 2;
+}
+h2{
+	font-family: 'Montserrat', sans-serif;
+	font-size: 2.5rem;
+    color: #66BFBF;
+    font-weight: normal
+    padding-bottom: 10px;
+}
+h3{
+	font-family: 'Montserrat', sans-serif;
+	color: #11999E;
+}
+
+p{
+	line-height: 2;
+	color: #004D48;
+}
+hr{
+	border-top: 2px dashed grey;
+	width: 52%;
+	margin: 100px auto;
+}
+.copyright{
+	color: #931f99;
+	font-size: 1em;
+	padding: 20px 0;
+}
+.message{
+	margin: 40px 0 60px;
+}
+.intro{
+	margin: auto;
+	width: 52%;
+}
+.profile-img{
+	width: 280px;
+	height: 299px;
+	border: #11999E solid;
+	border-width: 1px;
+	border-radius: 300px;
+}
+.top-container{
+	background-color: #C1FCF8;
+	position: relative;
+	padding-top: 100px;
+}
+.middle-container{
+	margin: 100px 0;
+}
+.bottom-container{
+	background-color: #66BFBF;
+	margin-top: 30px;
+	padding: 50px 0 20px;
+}
+.bottom-cloud{
+	position: absolute;
+	bottom: 300px;
+	left: 250px;
+}
+.top-cloud{
+	position: absolute;
+	top: 40px;
+	right: 300px;
+}
+.skill-row{
+	width: 50%;
+	margin: 100px auto 100px auto;
+	text-align: left;
+
+}
+.htmlcss{
+	width: 25%;
+	float: left;
+    margin-right: 30px;
+}
+.creative{
+	width: 25%;
+	float: right;  
+}
+.hobbies-row{
+	width: 50%;
+	margin: 50px auto 50px auto;	
+	float: left;
+	margin-left: 120px;
+}
+.hobbies-row1{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	padding: 35px;
+}
+.hobbies-row2{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	float: right;
+	margin-right: 120px;
+}
+.hobbies-row3{
+	width: 50%;
+	margin: 50px auto 50px auto;
+	padding: 50px;	
+}
+.lang{
+   width: 25%;
+
+}
+.ps{
+   width: 25%;
+   
+}
+.dance{
+   width: 25%;
+}
+.book{
+   width: 25%;
+}
+.btn {
+  background: #00ffea;
+  background-image: -webkit-linear-gradient(top, #00ffea, #0d48fa);
+  background-image: -moz-linear-gradient(top, #00ffea, #0d48fa);
+  background-image: -ms-linear-gradient(top, #00ffea, #0d48fa);
+  background-image: -o-linear-gradient(top, #00ffea, #0d48fa);
+  background-image: linear-gradient(to bottom, #00ffea, #0d48fa);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #931f99;
+  font-weight: bold;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  border: solid #03ffc8 3px;
+  text-decoration: none;
+}
+.btn:hover {
+  background: #8cffe8;
+  background-image: -webkit-linear-gradient(top, #8cffe8, #00cca3);
+  background-image: -moz-linear-gradient(top, #8cffe8, #00cca3);
+  background-image: -ms-linear-gradient(top, #8cffe8, #00cca3);
+  background-image: -o-linear-gradient(top, #8cffe8, #00cca3);
+  background-image: linear-gradient(to bottom, #8cffe8, #00cca3);
+  text-decoration: none;
+}
+a{
+	margin: 10px 20px;
+}
+.github{
+    background-image: url("https://cdn-icons-png.flaticon.com/512/733/733609.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+.tg{
+	background-image: url("https://cdn-icons-png.flaticon.com/512/2111/2111646.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+}
+.udemy{
+	background-image: url("https://avatars.slack-edge.com/2021-07-14/2272862865907_7321892ff0c22881a339_512.png"); 
+	background-size: contain;
+    background-repeat: no-repeat;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+
+}
